@@ -78,5 +78,4 @@ design, implementation, integration, testing, and documentation.
 ## Documentation
 
 - [Final implementation report](docs/implementation-report.pdf)
-- [Requirements and design report](docs/design-report.pdf)
 - [Project presentation](docs/presentation.pdf)
